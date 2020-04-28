@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642067572539",
+    "firebase_url": "https://bingo-5879a.firebaseio.com",
+    "project_id": "bingo-5879a",
+    "storage_bucket": "bingo-5879a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642067572539:android:54871def2b4f181897791e",
+        "android_client_info": {
+          "package_name": "com.wading.bingokt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642067572539-n740jao4nrlinngni1s7p3lvk75muvpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp7ciFb5NIUU4buJP-ks2Swn82_iyENQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642067572539-n740jao4nrlinngni1s7p3lvk75muvpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
